@@ -1,4 +1,4 @@
 # Flappy-Fish
 My take on the classic game - made with pygame
 
-First ever (decent) game, hope you enjoy!
+First ever (decent) game.Featurers a stored high score, hope you enjoy!
